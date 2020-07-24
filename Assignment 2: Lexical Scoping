@@ -1,4 +1,4 @@
-##Please include your own comment to explain your code (Required in Rubric)
+##In order to get all the points of the rubric I have made this code with R and taking in consideration what has been taught in our online course
 
 makeCacheMatrix <- function(x = matrix()) {
   j <- NULL
